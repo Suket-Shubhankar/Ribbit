@@ -12,8 +12,7 @@ To run this notebook, you'll need to install Jupyter Notebook and other required
 2. **Install Jupyter Notebook:**  
    Use pip to install the Jupyter Notebook.
    ```bash
-   pip install notebook
-   ```
+   pip install notebook```
 ##Clone the Repository:
 Clone this repository to your local machine.
  ```bash
