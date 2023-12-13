@@ -24,6 +24,19 @@ If you have a requirements.txt file, install the necessary Python packages.
 ```bash
 pip install -r requirements.txt
 ```
+## Start Jupyter Notebook:
+Open a terminal and navigate to the repository's directory.
+ 
+ ```bash
+jupyter notebook
+```
+
+## Open the Notebook:
+In the Jupyter interface, navigate to the Ribbit.ipynb file and open it.
+
+## Run the Notebook:
+Execute the cells in the notebook to see the results.
+
 # Usage
 The project is structured to process images in a specific way:
 
@@ -44,18 +57,7 @@ Responsible for creating high-resolution images from low-resolution inputs. It u
 ## Discriminator:
 Differentiates between the high-resolution images produced by the Generator and the original high-resolution images. It's a CNN-based classifier.
 
-## Start Jupyter Notebook:
-Open a terminal and navigate to the repository's directory.
- 
- ```bash
-jupyter notebook
-```
 
-## Open the Notebook:
-In the Jupyter interface, navigate to the Ribbit.ipynb file and open it.
-
-##Run the Notebook:
-Execute the cells in the notebook to see the results.
 
  
 
