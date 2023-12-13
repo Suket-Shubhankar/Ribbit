@@ -12,28 +12,29 @@ To run this notebook, you'll need to install Jupyter Notebook and other required
 2. **Install Jupyter Notebook:**  
    Use pip to install the Jupyter Notebook.
    ```bash
-   pip install notebook```
-##Clone the Repository:
+   pip install notebook
+   ```
+## Clone the Repository:
 Clone this repository to your local machine.
  ```bash
 git clone https://github.com/Suket-Shubhankar/Ribbit.git
 ```
-##Install Dependencies:
+## Install Dependencies:
 If you have a requirements.txt file, install the necessary Python packages.
 ```bash
 pip install -r requirements.txt
 ```
-#Usage
+# Usage
 To run the "Ribbit" notebook:
 
-##Start Jupyter Notebook:
+## Start Jupyter Notebook:
 Open a terminal and navigate to the repository's directory.
  
  ```bash
 jupyter notebook
 ```
 
-##Open the Notebook:
+## Open the Notebook:
 In the Jupyter interface, navigate to the Ribbit.ipynb file and open it.
 
 ##Run the Notebook:
