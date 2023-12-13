@@ -1,5 +1,5 @@
 # Ribbit Project
-# <img src="dalle1.png" alt="Ribbit" width="500"/>
+![Ribbit Upscaler Example](dalle1.png)
 
 ## Description
 The Ribbit project is an image upscaling solution that uses deep learning techniques, specifically Generative Adversarial Networks (GANs), to enhance the resolution of images. It's designed to upscale low-resolution images into higher-resolution counterparts, providing clearer, more detailed results.
